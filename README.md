@@ -4,7 +4,9 @@
 (`original/Tempestessss.py`, a guitar pickup with a phone lying on it) and the
 Kartiokello ring work ([anttiluode/Kartiokello](https://github.com/anttiluode/Kartiokello)).*
 
-![demo, two coils](docs/screenshot_demo_2coils.png)
+![pic](pic.png)
+
+(cellphone playing music - laid on top of guitar coils) 
 
 ```
 pip install -r requirements.txt
