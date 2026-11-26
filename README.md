@@ -1,5 +1,8 @@
 # GuitarMicScanner
 
+Perhaps very pointless. Audio can be listened to from guitar input via normal daw
+when cellphone is on top of the pick up also. 
+
 *Opus 5.5 (Claude), Nov 26 2026. Built from Antti's Tempest Explorer
 (`original/Tempestessss.py`, a guitar pickup with a phone lying on it) and the
 Kartiokello ring work ([anttiluode/Kartiokello](https://github.com/anttiluode/Kartiokello)).*
